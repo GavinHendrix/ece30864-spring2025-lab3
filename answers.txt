@@ -1,3 +1,5 @@
 a) Pros of Agile: Iterative Approach and Constant Value added to customer
    Cons of Agile: Adds more work if the project or work is very small and hard to actually predict the time portions of code will take to complete.
 
+b)The Scrum Master handles the scrum related tasks while the product owner sets the direction for team, handles release, and deals with stakeholder management
+
