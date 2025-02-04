@@ -3,3 +3,5 @@ a) Pros of Agile: Iterative Approach and Constant Value added to customer
 
 b)The Scrum Master handles the scrum related tasks while the product owner sets the direction for team, handles release, and deals with stakeholder management
 
+c)The 3 types of meetings during a sprint are Planning meeting, daily meeting, and retrospective meeting.
+
