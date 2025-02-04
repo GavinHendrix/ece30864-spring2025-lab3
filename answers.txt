@@ -5,3 +5,4 @@ b)The Scrum Master handles the scrum related tasks while the product owner sets 
 
 c)The 3 types of meetings during a sprint are Planning meeting, daily meeting, and retrospective meeting.
 
+d)An Epic is a large body of work that holds stories and bugs. A story is a software system component. A bug is something that blocks a story or Epic and needs fixed. A task covers general work that is not a feature or bug.
